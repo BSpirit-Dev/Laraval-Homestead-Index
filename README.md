@@ -1,4 +1,4 @@
-# Laravel Homestead - Index Page
+# Vagrant - Laravel Homestead Manager Page
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -24,7 +24,31 @@ This is a simple php file that placed inside your /Code/Project/public allow you
     you can also follow this guide: https://serverpilot.io/docs/how-to-install-the-php-yaml-extension
     
 - After you will need just place this files inside your Project/public folder
+- Navigate inside your browser to:
+    ```sh
+    127.0.0.1:8000
+    ```
+- Now Click button Visit Website for open a page with the target of your website 
 
+### More information:
+ Inside your Homestead.yaml you can add more information about your website, like the Name
+ ```sh
+ sites:
+    - map: homestead
+      to: /home/vagrant/Code/Project/public
+      name: Index
+ ```
+for editing this information, add or remove inside Index.php need just edit or remove the lines about missing value:
+```sh
+<!---------!>
+            //Remove or edit this line
+            <h3 class="display-5 text-center text-black-50"><?php echo $test1['name']; ?></h3> 
+<!----------!>
+```
+
+## Preview of Index Page
+
+![](https://raw.githubusercontent.com/Spit-Biagio/Laraval-Homestead-Index/master/Preview.png)
 
 
    [Laravel/Homestead]: <https://github.com/laravel/homestead>
