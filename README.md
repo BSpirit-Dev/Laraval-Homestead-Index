@@ -1,4 +1,4 @@
-# Vagrant - Laravel Homestead Manager Page
+# Vagrant - Laravel Homestead Index Page
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
