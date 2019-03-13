@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+Language: [English](https://github.com/Spit-Biagio/Laraval-Homestead-Index/blob/master/README.md "English"), [Italian](https://github.com/Spit-Biagio/Laraval-Homestead-Index/blob/master/README.it-IT.md "Italian")
+
 This is a simple php file that placed inside your /Code/Project/public allow you to have an Homepage that will show all site available inside your Homestead.yaml
 
 
