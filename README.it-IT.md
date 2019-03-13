@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+Lingua: [Inglese](https://github.com/Spit-Biagio/Laraval-Homestead-Index/blob/master/README.md "Inglese"), [Italiano](https://github.com/Spit-Biagio/Laraval-Homestead-Index/blob/master/README.it-IT.md "Italiano")
+
 Questa è un semplice php file the inserito all'interno della tua cartella /Code/Project/public permette di avere una homepage che permette di visuallizare tutti i siti presenti del tuo Homestead.yaml
 
 #### Di cosa hai bisogno?:
